@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1544544244 source:c:\users\doc.tea\documents\project\project_001\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	"Student.h"
+	"Admin.h"
+	"Lecturer.h"
+
+1544512694 source:c:\users\doc.tea\documents\project\project_001\src\admin.cpp
+	"Admin.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1544541278 c:\users\doc.tea\documents\project\project_001\include\admin.h
+	<iostream>
+	<string>
+
+1544512634 source:c:\users\doc.tea\documents\project\project_001\src\lecturer.cpp
+	"Lecturer.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1544528166 c:\users\doc.tea\documents\project\project_001\include\lecturer.h
+	<iostream>
+	<string>
+	"Student.h"
+
+1544543950 source:c:\users\doc.tea\documents\project\project_001\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1544543950 c:\users\doc.tea\documents\project\project_001\include\student.h
+	<iostream>
+	<string>
+
